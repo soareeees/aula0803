@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>documento 2</title>
+        
+
+        <body>
+            <fieldset>
+                <legend>matemática</legend>
+                <input type="image" src="doodle-formula-matematica-com-fonte-matematica-na-pagina-do-caderno_1639-36392.avif">
+                <br><br>
+                <label> 
+                    3 + 3 = <input type="text">
+                    <br><br>
+                    10 / 3 + <input type="text">
+                    <br><br>
+                    5 * 2 = <input type="text">
+                    <br><br>
+                    essa tarefa foi dificil? <input type="range" controls="50">
+                </label>
+
+
+
+            </fieldset>
+
+        </body>
+    </head>
+</html>
